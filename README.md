@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srabon0
-- 👀 I’m interested in python datascience and web development
-- 🌱 I’m currently learning data sceince
+- 👀 I’m interested in python data science and web development
+
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me srabonemam4@gmail.com
 
