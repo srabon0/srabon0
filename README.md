@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @srabon0
-- 👀 I’m interested in python data science and web development
-
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in full stack web development
 - 📫 How to reach me srabonemam4@gmail.com
 
 <!---
