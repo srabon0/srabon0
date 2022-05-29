@@ -5,8 +5,6 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://srabon.netlify.app/](https://srabon.netlify.app/)
-
 - 📫 How to reach me **srabonemam4@gmail.com, amamuddin025@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BJW3V49CgKfUoZW9ZvPY1oy16azdfp_8/view?usp=sharing](https://drive.google.com/file/d/1BJW3V49CgKfUoZW9ZvPY1oy16azdfp_8/view?usp=sharing)
