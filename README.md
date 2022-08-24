@@ -3,12 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srabon0&label=Profile%20views&color=0e75b6&style=flat" alt="srabon0" /> </p>
 
-
-
-- 📫 How to reach me **srabonemam4@gmail.com, amamuddin025@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BJW3V49CgKfUoZW9ZvPY1oy16azdfp_8/view?usp=sharing](https://drive.google.com/file/d/1BJW3V49CgKfUoZW9ZvPY1oy16azdfp_8/view?usp=sharing)
-
+- 📫 Reach me **srabonemam4@gmail.com, amamuddin025@gmail.com**
+- 
 - ⚡ Fun fact **I think im too lazy**
 
 <h3 align="left">Connect with me:</h3>
