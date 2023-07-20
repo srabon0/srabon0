@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srabon0&label=Profile%20views&color=0e75b6&style=flat" alt="srabon0" /> </p>
 
-```
+```javascript
 class JuniorSoftwareEngineer {
     constructor() {
         this.name = "Md Amam Uddin Srabon";
