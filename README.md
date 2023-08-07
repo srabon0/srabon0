@@ -16,8 +16,8 @@ class JuniorSoftwareEngineer {
             "React",
             "Pinia",
             "Redux-thunk",
-            "RTK-query",
             "Tailwind"
+            "Bootstrap"
         ];
     }
 
