@@ -11,7 +11,6 @@ class JuniorSoftwareEngineer {
         this.skills = [
             "JavaScript",
             "C++",
-            "python",
             "Vue",
             "React",
             "Pinia",
