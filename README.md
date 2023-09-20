@@ -6,7 +6,7 @@
 class SoftwareEngineer {
     constructor() {
         this.name = "Md Amam Uddin Srabon";
-        this.role = "Junior Software Engineer";
+        this.role = "Software Engineer";
         this.email = ["amamuddin025@gmail.com", "srabonemam4@gmail.com"];
         this.skills = [
             "JavaScript",
