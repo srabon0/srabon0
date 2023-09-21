@@ -10,10 +10,8 @@ class SoftwareEngineer {
         this.email = ["amamuddin025@gmail.com", "srabonemam4@gmail.com"];
         this.skills = [
             "JavaScript",
-            "C++",
-            "Vue",
+            "C++"
             "React",
-            "Pinia",
             "Redux-thunk",
             "Tailwind"
             "Bootstrap"
