@@ -25,7 +25,7 @@ class SoftwareEngineer {
     }
 }
 
-const me = new JuniorSoftwareEngineer();
+const me = new SoftwareEngineer();
 me.sayHi();
 ```
 
